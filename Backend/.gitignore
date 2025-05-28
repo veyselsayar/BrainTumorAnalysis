@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.dylib
+*.pyd
+.env
+*.h5
+*.keras
+*.ckpt
